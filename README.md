@@ -49,6 +49,8 @@ countries and a few very large cities - and does the size distribution follow th
 
 ![Rank-size distribution](figs/fig2_rank_size.png)
 
+![Share of the population by city-size band](figs/fig3_size_bands.png)
+
 ## One limitation
 
 GeoNames mixes city-proper population with urban sub-units (districts) for some countries and
